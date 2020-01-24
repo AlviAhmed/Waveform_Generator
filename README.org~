@@ -1,0 +1,24 @@
+Designing a waveform generator according to a set of specifications
+
+SPECIFICATIONS:
+
+Waveform Functions:
+
+-Triangular or Square wave output
+
+Frequency Range:
+
+-Range #1 ≈ 100 Hz to 1800 Hz 
+-Range #2 ≈ 20 Hz to 360 Hz    
+
+Both ranges user selectable
+
+Input Voltage Control Range:
+
+-0.1V to 5V   
+
+Output Amplitude Control Range:
+
+-0V to 8V pk-pk  
+
+Building and Designing was a steady process from the basics to the final product, which can be seen in this repository.
