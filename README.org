@@ -53,7 +53,14 @@ The wave generator was a compilation of many different types of circuits put tog
  [[./rudimentarywavegenerator360hz.png]]  
  
 
-*  Waveform Generator Circuit (Optimized)
+*  Waveform Generator Circuit (Optimized) 
+
+ [[./rudimentarywavegenerator1800hz.png]] 
+ [[./rudimentarywavegenerator1800hz.png]] 
+ [[./rudimentarywavegenerator1800hz.png]] 
+ [[./rudimentarywavegenerator1800hz.png]] 
+ [[./rudimentarywavegenerator1800hz.png]] 
+ [[./rudimentarywavegenerator1800hz.png]] 
  *Updates Coming*   
 
 
