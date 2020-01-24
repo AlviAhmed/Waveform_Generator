@@ -22,22 +22,17 @@ The wave generator was a compilation of many different types of circuits put tog
 *  Bistable 
 ** Non-inverting Bistable    
 *** Schematic    
-    [[./noninble.png]]
+ *Updates Coming*     
+
 *** Waveform     
+ *Updates Coming*    
 
-
-** Inverting Bistable   
+** Inverting Bistable (*example of what not to do*)
 *** Schematic    
 [[./invertingbistableexample.png]] 
 *** Waveform
 [[./invertingbistablewaveform.png]] 
    
-
-
-
-
- 
-
 * DC-DC Converter 
 ** Schematic 
 [[./dcconvertercircuit.png]] 
@@ -55,12 +50,6 @@ The wave generator was a compilation of many different types of circuits put tog
 
 *  Waveform Generator Circuit (Optimized) 
 
- [[./rudimentarywavegenerator1800hz.png]] 
- [[./rudimentarywavegenerator1800hz.png]] 
- [[./rudimentarywavegenerator1800hz.png]] 
- [[./rudimentarywavegenerator1800hz.png]] 
- [[./rudimentarywavegenerator1800hz.png]] 
- [[./rudimentarywavegenerator1800hz.png]] 
  *Updates Coming*   
 
 
