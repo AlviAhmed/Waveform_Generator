@@ -22,15 +22,15 @@ The wave generator was a compilation of many different types of circuits put tog
 *  Bistable 
 ** Non-inverting Bistable    
 *** Schematic    
-    [[file:/home/al/Documents/Git_projects/Waveform_Generator/noninble.png]] 
+    [[file:~/Documents/Git_projects/Waveform_Generator/noninble.png]] 
 *** Waveform     
- *Updates Coming*    
+    [[./noninvertingbistablewaveform.png]] 
 
 ** Inverting Bistable (example of what not to do)
 *** Schematic    
-[[./invertingbistableexample.png]] 
+    [[./invertingbistableexample.png]] 
 *** Waveform
-[[./invertingbistablewaveform.png]] 
+    [[./invertingbistablewaveform.png]] 
    
 * DC-DC Converter 
 ** Schematic 
