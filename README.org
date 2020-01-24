@@ -27,7 +27,8 @@ The wave generator was a compilation of many different types of circuits put tog
 ** Inverting Bistable (example of what NOT to do)
 *** Schematic    
     [[./invertingbistableexample.png]] 
-*** Waveform
+*** Waveform 
+    [[./invertingbistablewaveform.png]] 
 * DC-DC Converter 
 ** Schematic 
 [[./dcconvertercircuit.png]] 
