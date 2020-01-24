@@ -1,32 +1,53 @@
 * Designing a waveform generator according to a set of specifications 
-
 ** SPECIFICATIONS:
-
 *** Waveform Functions:
-
     -Triangular or Square wave output (User Selectable)
-
 *** Frequency Range:
-
     -Range #1 ≈ 100 Hz to 1800 Hz 
     -Range #2 ≈ 20 Hz to 360 Hz    
-
 Both ranges user selectable
-
 *** Input Voltage Control Range:
-
     -0.1V to 5V   
-
 *** Output Amplitude Control Range:
+    -0V to 8V pk-pk   
 
--0V to 8V pk-pk  
 
 Building and Designing was a steady process from the basics to the final product, which can be seen in this repository.  
-
 The wave generator was a compilation of many different types of circuits put together  
+ *Updates Coming*   
 
+* Inverter
+*  Bistable 
+** Non-inverting Bistable    
+*** Schematic   
+[[./noninvertingbistable.png]] 
+*** Waveform    
+[[./noninvertingbistablewaveform.png]]  
+
+** Inverting Bistable   
+*** Schematic    
+[[./invertingbistableexample.png]] 
+*** Waveform
+[[./invertingbistablewaveform.png]] 
+   
+
+
+
+
+
+* DC-DC Converter 
+** Schematic 
 [[./dcconvertercircuit.png]] 
+** Waveform 
+[[./dcconverterwaveform.png]]   
 
+*  Waveform Generator Circuit (Basic) 
+** Schematic  
+*** 1800 Hz Mode 
+ [[./rudimentarywavegenerator1800hz.png]] 
+*** 360 Hz Mode 
+ [[./rudimentarywavegenerator360hz.png]]  
 
+*  Waveform Generator Circuit (Optimized)
 
 
