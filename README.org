@@ -21,7 +21,11 @@ Both ranges user selectable
 
 -0V to 8V pk-pk  
 
-Building and Designing was a steady process from the basics to the final product, which can be seen in this repository. 
+Building and Designing was a steady process from the basics to the final product, which can be seen in this repository.  
+
+The wave generator was a compilation of many different types of circuits put together  
+
+[[./dconvertercircuit.png]]
 
 
 
