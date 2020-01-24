@@ -13,14 +13,17 @@ Both ranges user selectable
 
 
 Building and Designing was a steady process from the basics to the final product, which can be seen in this repository.  
-The wave generator was a compilation of many different types of circuits put together  
- *Updates Coming*   
+The wave generator was a compilation of many different types of circuits put together   
 
-* Inverter 
-  *Updates Coming*    
+
+ *Updates Coming Soon*   
+
+* Inverter  
+  *Updates Coming Soon*     
+
 *  Bistable 
 ** Non-inverting Bistable    
-*** Schematic     
+*** Schematic       
     [[./noninvertingbistableschem.png]] 
 *** Waveform       
     [[./noninvertingbistablewaveform.png]] 
@@ -29,7 +32,8 @@ The wave generator was a compilation of many different types of circuits put tog
 *** Schematic    
     [[./invertingbistableschem.png]] 
 *** Waveform 
-    [[./invertingbistablewaveform.png]] 
+    [[./invertingbistablewaveform.png]]  
+
 * DC-DC Converter 
 ** Schematic 
 [[./dcconvertercircuit.png]] 
@@ -46,7 +50,7 @@ The wave generator was a compilation of many different types of circuits put tog
   
 
 *  Waveform Generator Circuit (Optimized) 
- *Updates Coming*   
+ *Updates Coming Soon*   
 
 
 
