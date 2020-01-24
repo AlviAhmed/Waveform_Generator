@@ -22,7 +22,8 @@ The wave generator was a compilation of many different types of circuits put tog
 *  Bistable 
 ** Non-inverting Bistable    
 *** Schematic    
-    [[file:~/Documents/Git_projects/Waveform_Generator/non.png]]  
+    [[file:~/Documents/Git_projects/Waveform_Generator/non.png]]   
+
     [[./non.png]] 
 *** Waveform     
 
