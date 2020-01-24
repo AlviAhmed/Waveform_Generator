@@ -25,7 +25,7 @@ Building and Designing was a steady process from the basics to the final product
 
 The wave generator was a compilation of many different types of circuits put together  
 
-[[./dconvertercircuit.png]]
+[[./dcconvertercircuit.png]] 
 
 
 
