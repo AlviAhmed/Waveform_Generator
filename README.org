@@ -27,7 +27,7 @@ Both ranges user selectable
             
             
 This project was a steady process to design a waveform generator. I
-first started with the basics/fundementals of the design. The main
+first started with the basics/fundamentals of the design. The main
 hurdle is the actually generating two types of frequencies in the
 same Op-Amp circuit. 
 
@@ -122,7 +122,7 @@ Which matches up with example waveform diagram.
 
 [[./images/inverter/wave_form_diag.png]]
 
-As can be seen from this multisim simulation, a 5 Vpk-pk square wave (Channel A) is being inputted into an inverting integrator which is then inverting and integrating the input and outputting it to Channel B.
+As can be seen from this Multisim simulation, a 5 Vpk-pk square wave (Channel A) is being inputted into an inverting integrator which is then inverting and integrating the input and outputting it to Channel B.
 
 If the resistor values and capacitor values can be found for a desired slope and vice and versa.
 
